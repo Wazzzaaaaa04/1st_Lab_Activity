@@ -1,4 +1,9 @@
-
-    body{background-color: lightgreen;}
-    h1{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}    
-    h2{font-family: Georgia, 'Times New Roman', Times, serif;}
+body{background-color: lightgreen;}
+    .center {
+        display: block;
+        margin-left: 100px;
+        
+        width: 10%;
+      }
+    h1{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}    
+    h2,h3,h4{font-family: 'Courier New', Courier, monospace;}
